@@ -9,4 +9,4 @@ Watch -- Save -- Next ---Repeat
 Watch -- Can't Save -- Next -- Repeat
 Open New Chats -- Reply for 30 seconds -- Wait -- Repeat
 
-Note : This bot will require [scrcpy](https://github.com/Genymobile/scrcpy) to work.
+Note : This bot will require [scrcpy](https://github.com/Genymobile/scrcpy) & [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Home.html#binaries) to work.
