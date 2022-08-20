@@ -1,7 +1,7 @@
 # snapsaver
 This bot automates the task you'll need to do in snapchat.
 
-This readme isn't complete, will do whenever I'm free. Also, the bot isn't that big either, will my best to upgrade whenever I'm free.
+This readme isn't complete, and also the project isn't that big either, will my best to upgrade whenever I'm free. Just dropped this here, cause thought this can be scaled to other uses.
 
 Things bot does succesfully : 
 
